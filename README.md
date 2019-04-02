@@ -1,2 +1,0 @@
-# GridGeneratorReact
-Created with CodeSandbox
